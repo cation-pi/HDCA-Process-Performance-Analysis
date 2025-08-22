@@ -1,5 +1,5 @@
 % This script focuses on visualizing the reaction dynamics of reactor temperature over time. 
-% Its purpose is to compare temperature profiles across different batches and to display the average reaction kinetics profile from the entire production dataset.
+% Its purpose is to compare temperature profiles across different batches.
 
 inputFile = 'DataHDCA_TempxTime.xlsx';
 folderPlots = 'Plots_HDCA';
